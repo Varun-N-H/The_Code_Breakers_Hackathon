@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SafeLinkEdu Backend API
 
 Backend API for SafeLinkEdu - AI-powered phishing detection for educational links.
@@ -255,3 +256,6 @@ For issues and questions:
 - Password: `admin123`
 
 To change the password, use the `/api/auth/setup` endpoint or update directly in the database.
+=======
+The_Code_Breakers_Hackathon
+>>>>>>> ae8785dd0282a2a1ac826c985292b4dad66ed036
